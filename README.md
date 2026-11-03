@@ -1,87 +1,151 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d63333,50:c75932,100:df6f06&height=180&section=header&text=Giacomo%20Viviano&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descSize=18&descAlignY=58" alt="Header banner" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0f766e&height=180&section=header&text=Giacomo%20Viviano&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descFontSize=18&descColor=bfdbfe" alt="Header banner" width="100%" />
-
-<h1 align="center">Giacomo Viviano</h1>
-
-<p>
-  <img src="https://img.shields.io/badge/Computer_Science-Student-0A66C2?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science Student" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-<p>
-  <a href="https://github.com/Jeck-VV"><img src="https://img.shields.io/badge/GitHub-Jeck--VV-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/giacomo-viviano"><img src="https://img.shields.io/badge/LinkedIn-Giacomo_Viviano-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d63333,50:c75932,100:df6f06&height=4" width="100%" alt="" />
 
 </div>
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Backend_%26_System_Design-00C853?style=flat-square" alt="Backend and System Design" />
-    <img src="https://img.shields.io/badge/Interests-Distributed_Systems-FF6D00?style=flat-square" alt="Distributed Systems" />
-    <img src="https://img.shields.io/badge/Stack-Rust_%7C_Python_%7C_JavaScript-8A2BE2?style=flat-square" alt="Rust | Python | JavaScript" />
-  </p>
-</div>
-
----
-
-<h2 align="center">About Me</h2>
+<h2 align="center">🎯 About Me</h2>
 
 <p align="center">
-  I am a Computer Science student passionate about building robust software, backend systems, and practical engineering solutions.
+  Computer Engineering Master's student at Politecnico di Torino, specializing in <b>Artificial Intelligence and Data Analytics</b>.
   <br />
-  I enjoy working with Rust, Python, and web technologies, with a strong interest in distributed systems, data flow, and clean architecture.
+  I build scalable backend architectures and integrate machine learning pipelines into functional web applications.
+  <br />
+  Looking for a full-time position where I can also develop my Master's thesis.
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d63333,50:c75932,100:df6f06&height=4" width="100%" alt="" />
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🗺️ Tech Stack</h2>
 
-<table align="center" width="100%">
+<div align="center">
+
+<table>
   <tr>
-    <td align="center" width="50%" valign="top" style="padding: 18px; border: 1px solid #2d3748; border-radius: 18px; background: linear-gradient(135deg, rgba(20, 184, 166, 0.10), rgba(59, 130, 246, 0.08));">
-      <h3>🦀 Fleet Geolocation System</h3>
-      <p>
-        A client/server Rust application designed to monitor a fleet of vehicles, track their state, analyze movement patterns,
-        and support messaging between system components.
-      </p>
-      <a href="https://github.com/Jeck-VV/NOME-REPO">
-        <img src="https://img.shields.io/badge/View_Project-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="View project" />
-      </a>
-      <br />
-      <img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square" alt="In Progress" />
+    <td align="right">
+      <img src="https://img.shields.io/badge/Languages-ef4444?style=flat" alt="Languages" />
     </td>
-    <td align="center" width="50%" valign="top" style="padding: 18px; border: 1px solid #2d3748; border-radius: 18px; background: linear-gradient(135deg, rgba(96, 165, 250, 0.12), rgba(167, 139, 250, 0.08));">
-      <h3>🌐 Web Application Project</h3>
-      <p>
-        A web application developed during university coursework, with focus on interface design, business logic,
-        and software structure.
-      </p>
-      <a href="https://github.com/Jeck-VV/Web-Application-Project">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Web Application Project" />
-      </a>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Frameworks_%26_Testing-3b82f6?style=flat" alt="Frameworks and Testing" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Databases-22c55e?style=flat" alt="Databases" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white" alt="NoSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Tools_%26_Methodologies-a855f7?style=flat" alt="Tools and Methodologies" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-F05032?style=flat&logo=git&logoColor=white" alt="Git/GitHub" />
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/UML-6C757D?style=flat" alt="UML" />
+      <img src="https://img.shields.io/badge/Agile-YouTrack-FF318C?style=flat&logo=youtrack&logoColor=white" alt="Agile (YouTrack)" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Machine_Learning-0F766E?style=flat" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Data_Analytics-1D4ED8?style=flat" alt="Data Analytics" />
+      <img src="https://img.shields.io/badge/Async_Programming-6D28D9?style=flat" alt="Asynchronous Programming" />
+      <img src="https://img.shields.io/badge/Software_Architecture-334155?style=flat" alt="Software Architecture" />
     </td>
   </tr>
 </table>
 
----
-
-<h2 align="center">🛠️ Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-<div align="center">
-  <p><em>Building practical, scalable, and maintainable software solutions.</em></p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d63333,50:c75932,100:df6f06&height=4" width="100%" alt="" />
+
+<h2 align="center">🚈 Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🦀 Geolocation System</h3>
+      <p>
+        A client/server Rust application designed to monitor a fleet of vehicles, track their state, analyze movement patterns,
+        and support messaging between system components.
+      </p>
+      <a href="https://github.com/Jeck-VV/Real-Time_Vehicle_Tracker">
+        <img src="https://img.shields.io/badge/View_Project-d63333?style=flat" alt="View project" />
+      </a>
+      <br />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🌐 Web Application Project</h3>
+      <p>
+        A web application developed for the final exam of the course, with focus on interface design, business logic,
+        and software structure. Built with React, Node.js and Express, with asynchronous backend programming and data validation.
+      </p>
+      <a href="https://github.com/Jeck-VV/Web-Application-Project">
+        <img src="https://img.shields.io/badge/View_Project-c75932?style=flat" alt="Web Application Project" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🏛️ Participium</h3>
+      <p>
+        Flask web application documented and tested for a university course, with automated unit tests written in pytest to ensure code quality.
+      </p>
+      <a href="https://github.com/Jeck-VV/Participium_software_engineering">
+        <img src="https://img.shields.io/badge/View_Project-df6f06?style=flat" alt="Participium" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>⛰️ Mountain Hut</h3>
+      <p>
+        Team project developed in an Agile workflow: effort estimation, sprint planning and task distribution with YouTrack,
+        plus API, test and user-manual documentation written by the team.
+      </p>
+      <!--<a href="https://github.com/Jeck-VV/NOME-REPO-MOUNTAIN-HUT">
+        <img src="https://img.shields.io/badge/View_Project-a855f7?style=flat" alt="Mountain Hut" />
+      </a>-->
+      <br />
+      <img src="https://img.shields.io/badge/status-ongoing-eab308?style=flat" alt="Ongoing" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d63333,50:c75932,100:df6f06&height=4" width="100%" alt="" />
+
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+```
+ 🚉 BSc Computer Engineering ───●─── 🚉 MSc Computer Engineering ───●─── 🏁 Thesis
+    Politecnico di Torino              AI & Data Analytics               Feb/Mar 2027
+    2022 – 2025 · 94/110               Sep 2025 – Present
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:df6f06,50:c75932,100:d63333&height=100&section=footer" width="100%" alt="Footer" />
