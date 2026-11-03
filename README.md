@@ -12,8 +12,6 @@
   Computer Engineering Master's student at Politecnico di Torino, specializing in <b>Artificial Intelligence and Data Analytics</b>.
   <br />
   I build scalable backend architectures and integrate machine learning pipelines into functional web applications.
-  <br />
-  Looking for a full-time position where I can also develop my Master's thesis.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d63333,50:c75932,100:df6f06&height=4" width="100%" alt="" />
