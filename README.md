@@ -140,11 +140,18 @@
 
 <div align="center">
 
-```
- 🚉 BSc Computer Engineering ───●─── 🚉 MSc Computer Engineering ───●─── 🏁 Thesis
-    Politecnico di Torino              AI & Data Analytics               Feb/Mar 2027
-    2022 – 2025 · 94/110               Sep 2025 – Present
-```
+
+  ● Sep 2022 – Sep 2025
+  ┃   BSc in Computer Engineering
+  ┃   Politecnico di Torino
+  ┃   Final grade: 94/110
+  ┃
+  <br />
+  ◉ Sep 2025 – Present
+  |   MSc in Computer Engineering
+  |   Specialization in AI and Data Analytics
+  |   Politecnico di Torino
+  |
 
 </div>
 
